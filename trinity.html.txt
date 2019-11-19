@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Trinity University </title>
+</head>
+<body>
+
+<h2>About Trinity University</h2>
+
+<p> Trinity University is a private liberalarts university situated 3 miles from downtown San Antonio. According to the U.S.News Rankings, Trinity University is currently ranked # 1 in both "Univerisities in the West" and "Best Value Schools," 
+while being tied at #4 with "Best Undergraduate Teaching". Trinity University is known for it rigourous curriculum. It Fall 2019, Trinity's Acceptance rate is 29%
+
+<h3>   Things to do at Trinity    </h3>
+
+Trinity has 115 Campus Organizations ranging from political ideaology, student government, science oriented, humanities orientated, to just playing chess. Being 3 miles from downtown San Antonio, those who are first time 
+travelers to the heart of Texas can take the large hispanic culture and cuisine. Across the highway lies the San Antonio Zoo and depending on traffic, you can drive to the city's Sea World Amuesment Park in under 45 minutes and Six Flags
+Fiesta Texas in under 30. 
+
+
+</p>
+
+</body>
+</html>
