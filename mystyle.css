@@ -1,0 +1,21 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+a{
+	color: #880033;
+	text-decoration: none;
+}
+body {
+	background-color:white;
+	background-image: url();
+	font-family: "Lato", Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333334;
+}
+h1 {
+	color: gray;
+	font-size: 24px;
+}
