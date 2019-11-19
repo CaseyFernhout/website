@@ -1,0 +1,58 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+<title>Trinity University</title>
+</head>
+<body>
+
+
+<div style="height: 900px;
+	width: 175px;
+	
+	background-color: #ccff99;
+	padding-right: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
+	float: left;
+	margin: 0 10px 0 10px;
+	color: 	#40532d;
+	font-size: 12px">
+
+
+<strong>Contact Information</strong><p>
+Casey Fernhout<br>
+Trinity University<br>
+1 Trinity Place<br>
+San Antonio, TX 78212<br>
+cfernhou@trinity.edu<br><br><p>
+<hr>
+<strong>Navigation</strong><br><p>
+
+<a href="https://sites.google.com/a/trinity.edu/rj-web-portfolio/home">Home</a><br>
+<a href="https://sites.google.com/a/trinity.edu/rj-web-portfolio/resume">Résumé</a><br>
+<a href="https://sites.google.com/a/trinity.edu/rj-web-portfolio/infographic">Infographic</a><br>
+<a href="https://sites.google.com/a/trinity.edu/rj-web-portfolio/graphics">Graphics</a><p>
+
+
+</div>
+
+<h1>Trinity University</h1>
+
+<a href="http:/trinity.edu">Trinity University</a> is located in San Antonio, Texas.  Trinity University is a private liberalarts university situated 3 miles from downtown San Antonio. According to the U.S.News Rankings, Trinity University is currently ranked # 1 in both "Univerisities in the West" and "Best Value Schools," 
+while being tied at #4 with "Best Undergraduate Teaching". Trinity University is known for it rigourous curriculum. It Fall 2019, Trinity's Acceptance rate is 29%
+</p>
+<div style="float:left; margin:0 10px 10px 10px;"><img src="Northrup Image"><br>Photo courtesy of Trinity University</div> </p> <p> Trinity has 115 Campus Organizations ranging from political ideaology, student government, science oriented, humanities orientated, to just playing chess. Being 3 miles from downtown San Antonio, those who are first time 
+travelers to the heart of Texas can take the large hispanic culture and cuisine. Across the highway lies the San Antonio Zoo and depending on traffic, you can drive to the city's Sea World Amuesment Park in under 45 minutes and Six Flags
+Fiesta Texas in under 30.  </p></br>
+
+<p>I chose Trinity University because I wanted to stay within San Antonio and close to my family, plus, its cheaper this way!</p>
+<p>I hope to major in Poltical Science because its a major I know a can excel in, and when applying to places such as Vet School, they prefer you major in something your good at. Here are some links to important information about my chosen interest:
+<ul>
+<li><a href="https://new.trinity.edu/academics/departments/political-science/majors-minors">Trinity University Poltical Science </a></li>
+<li><a href="https://www.usnews.com/education/best-graduate-schools/articles/2019-04-22/what-can-you-do-with-a-political-science-degree">What Can You Do With a Political Science Degree?</a>
+</ul>
+
+<p style="color:red;"><em>Important information: this page was created in html code, demonstrating my knowledge of HTML.</em></p>
+
+</html>
